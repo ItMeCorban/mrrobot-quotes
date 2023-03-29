@@ -1,6 +1,6 @@
-# sudofox/shell-mommy
+Forked from sudofox/shell-mommy https://github.com/sudofox/shell-mommy
 
-Inspired by [Gankra/cargo-mommy](https://github.com/Gankra/cargo-mommy)
+Replacing 'mommy' quotes with Mr Robot quotes.
 
 This is a shell script that provides a `mommy` function which emulates a nurturing and supportive figure. The `mommy` function can be used to offer praise and encouraging responses to a user's actions, depending on the exit status of the command that is passed to it.
 
